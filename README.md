@@ -1,6 +1,7 @@
 🐍 Jogo Snake em Python com Pygame
 
 📌 Descrição do Projeto
+
 Desenvolvido em Python com a biblioteca Pygame. O objetivo é movimentar a cobra pela tela, coletar a comida que aparece aleatoriamente e evitar colisões com as paredes e com o próprio corpo.
 
 🎮 Funcionalidades Principais
