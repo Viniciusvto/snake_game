@@ -43,6 +43,9 @@ Lógica de crescimento da cobra, baseada em uma lista de posições (pixels).
 
 Fonte e renderização de texto com pygame.font.SysFont() para exibir a pontuação.
 
+👨‍💻 Autor
+Desenvolvido por Vinicius Teixeira
+
 
 🖥️ Requisitos
 Python 3.8 ou superior
