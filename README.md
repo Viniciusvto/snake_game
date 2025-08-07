@@ -39,6 +39,6 @@ Desenvolvido por Vinicius Teixeira.
 
 Python 3.8 ou superior
 Biblioteca Pygame
-Instale com:
+
 
 ![snake_game](https://github.com/user-attachments/assets/07990cbd-0e90-4159-abf2-9503c5bc36b9)
